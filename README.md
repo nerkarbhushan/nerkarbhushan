@@ -1,4 +1,4 @@
-![logo](https://github.com/vinodtambe007/vinodtambe007/blob/main/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg)
+![logo](https://github.com/nerkarbhushan/nerkarbhushan/blob/main/github_banner.jpg)
 <h1 align="center">Hi 👋, I'm Bhushan Nerkar</h1>
 <h3 align="center">A passionate Full Stack Developer developer from India</h3>
  
