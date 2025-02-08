@@ -1,6 +1,7 @@
-![logo](https://github.com/nerkarbhushan/nerkarbhushan/blob/main/Computer.jpg)
+<img src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/programmer-night.png" alt="logo" width="1440" height="480">
 <h1 align="center">Hi 👋, I'm Bhushan Nerkar</h1>
-<h3 align="center">A passionate MERN/Full Stack developer from INDIA</h3>
+
+<h2 align="center">A passionate MERN - Full Stack developer from INDIA</h2>
  
 <img align="right" alt="coding" width="500" src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/bhushan_nerkar.gif" >
  
