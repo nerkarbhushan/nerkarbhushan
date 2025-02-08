@@ -1,4 +1,4 @@
-<img src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/programmer-night.png" alt="logo" width="1440" height="480">
+<img src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/programmer.jpg" alt="logo" width="1440" height="480">
 <h1 align="center">Hi 👋, I'm Bhushan Nerkar</h1>
 
 <h2 align="center">A passionate MERN - Full Stack developer from INDIA</h2>
