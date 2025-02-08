@@ -1,9 +1,8 @@
-![logo](https://github.com/nerkarbhushan/nerkarbhushan/blob/main/github_banner.jpg)
+![logo](https://github.com/nerkarbhushan/nerkarbhushan/blob/main/Computer.jpg)
 <h1 align="center">Hi 👋, I'm Bhushan Nerkar</h1>
 <h3 align="center">A passionate MERN/Full Stack developer from INDIA</h3>
  
 <img align="right" alt="coding" width="500" src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/bhushan_nerkar.gif" >
- 
  
 - 🔭 I’m currently working on **Service based projects**
 
