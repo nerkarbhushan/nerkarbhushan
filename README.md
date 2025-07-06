@@ -26,19 +26,6 @@ I'm passionate about **problem-solving, debugging**, and exploring emerging tech
 
 When I’m not coding, you’ll find me **surfing YouTube** for tech content, solving **LeetCode challenges**, or tuning my setup for **system customization**.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerkarbhushan&show_icons=true&theme=tokyonight" alt="Bhushan's GitHub stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerkarbhushan&theme=tokyonight" alt="Bhushan's GitHub streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerkarbhushan&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p>
 
 
 
