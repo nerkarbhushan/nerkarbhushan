@@ -4,7 +4,7 @@
 
 <h2 align="center">A passionate MERN - Full Stack developer from INDIA</h2>
 
-<img align="right" alt="coding" width="500" src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/bhushan_nerkar.gif" >
+<img align="right" alt="coding" width="500" height="300" src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/bhushan_nerkar.gif" >
 
 - 🔭 I’m currently working on **Service-based projects**
 - 🌱 I’m currently learning **deployment of MERN applications on Azure**
@@ -13,7 +13,6 @@
 - 📫 How to reach me: **nerkarbhushan.b@gmail.com**
 - ⚡ Fun fact: **I love playing chess and cricket**
 - 👨‍💻 All of my projects are available at [https://github.com/nerkarbhushan](https://github.com/nerkarbhushan)
-
 
 
 
