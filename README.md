@@ -3,16 +3,43 @@
 <h1 align="center">Hi 👋, I'm Bhushan Nerkar</h1>
 
 <h2 align="center">A passionate MERN - Full Stack developer from INDIA</h2>
- 
+
 <img align="right" alt="coding" width="500" src="https://github.com/nerkarbhushan/nerkarbhushan/blob/main/bhushan_nerkar.gif" >
- 
-- 🔭 I’m currently working on **Service based projects**
+
+- 🔭 I’m currently working on **Service-based projects**
 - 🌱 I’m currently learning **deployment of MERN applications on Azure**
 - 🤝 I’m looking for help with **deploying applications on Azure**
 - 💬 Ask me about **Frontend, Backend, JavaScript, React.js, Node.js, Express.js, MongoDB, etc**
-- 📫 How to reach me **nerkarbhushan.b@gmail.com**
-- ⚡ Fun fact **I love playing chess and cricket**
+- 📫 How to reach me: **nerkarbhushan.b@gmail.com**
+- ⚡ Fun fact: **I love playing chess and cricket**
 - 👨‍💻 All of my projects are available at [https://github.com/nerkarbhushan](https://github.com/nerkarbhushan)
+
+---
+
+### 🚀 About Me
+
+I am a results-driven **MERN Stack | Fullstack Developer** with 3+ years of experience in building and deploying high-performance web applications. I specialize in technologies like **React.js, Node.js, Express.js, MongoDB, and MySQL**, creating **scalable, secure, and maintainable** solutions.
+
+I’m experienced in building **RESTful & GraphQL APIs**, real-time applications with **Socket.io**, and implementing secure authentication using **JWT and OAuth**. I've worked with **microservices**, **Redis**, and deployed using **Docker, Kubernetes, AWS**, and **CI/CD pipelines** like GitHub Actions and Jenkins.
+
+I'm passionate about **problem-solving, debugging**, and exploring emerging technologies like **Generative AI** and **system optimization**.
+
+When I’m not coding, you’ll find me **surfing YouTube** for tech content, solving **LeetCode challenges**, or tuning my setup for **system customization**.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nerkarbhushan&show_icons=true&theme=tokyonight" alt="Bhushan's GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerkarbhushan&theme=tokyonight" alt="Bhushan's GitHub streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerkarbhushan&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
