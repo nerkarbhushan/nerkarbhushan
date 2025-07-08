@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **deployment of MERN applications on AWS**
 - 🤝 I’m looking for help with **deploying applications on AWS**
 - 💬 Ask me about **Frontend, Backend, JavaScript, React.js, Node.js, Express.js, MongoDB, DevOps, etc**
-- 📫 How to reach me: [nerkarbhushan.b@gmail.com](nerkarbhushan.b@gmail.com)
+- 📫 How to reach me: [nerkarbhushan.b@gmail.com](mailto:nerkarbhushan.b@gmail.com)
 - 🌐 Visit my portfolio at [https://nerkarbhushan-portfolio.netlify.app](https://nerkarbhushan-portfolio.netlify.app)
 - 👨‍💻 All of my projects are available at [https://github.com/nerkarbhushan](https://github.com/nerkarbhushan)
 - ⚡ Fun fact: **I love playing chess and cricket**
