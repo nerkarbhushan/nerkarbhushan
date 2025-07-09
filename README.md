@@ -16,8 +16,6 @@
 - ⚡ Fun fact: **I love playing chess and cricket**
 
 
-
-
 ----
 
 ### 🚀 About Me
